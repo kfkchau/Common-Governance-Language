@@ -1,4 +1,3 @@
-````md
 # 00 Master Database Principle
 
 ## Core Principle
@@ -1267,9 +1266,4 @@ CAP is reporting/view information over the database.
 ```text
 CGL does not begin with functions.
 CGL begins with authorised information movement into SYSTEM and recorded SYSTEM activity over a master database.
-```
-
-```
-
-Download: [cgl_foundational_boot_design.md](sandbox:/mnt/data/cgl_foundational_boot_design.md)
 ```
